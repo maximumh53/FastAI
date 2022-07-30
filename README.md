@@ -1,2 +1,2 @@
 # FastAI
-Projects created with FastAi
+Projects created with FastAI
